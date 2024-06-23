@@ -15,5 +15,13 @@
     "pulsating-loader"
   ],
   "author": "Eugenio Uglov",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/EugenioUglov/pulsating-loader-npm-package/issues"
+  },
+  "homepage": "https://github.com/EugenioUglov/pulsating-loader-npm-package#readme"
 }

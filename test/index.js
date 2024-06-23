@@ -1,3 +1,3 @@
 const pulsatingLoader = require('pulsating-loader');
 
-console.log(pulsatingLoader('0000'));
+console.log(pulsatingLoader.test());
